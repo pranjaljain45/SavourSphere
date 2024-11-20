@@ -10,6 +10,11 @@ body {
   font-weight: 300;
   font-family: "Roboto", sans-serif;
 }
+.logo_container  h1{
+  color: green;
+  font-size: 40px;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
+}
 button {
   padding: 10px 15px;
   border: none;
